@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_search">Search</string>
+    <string name="error_dialog_button_text">Ok</string>
+    <string name="error_dialog_message_text">Error code </string>
+    <string name="wind">Wind:</string>
+    <string name="cloudness">Cloudness:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="sunrise">Sunrise:</string>
+    <string name="sunset">Sunset:</string>
+    <string name="geo_cords">Geo Cords:</string>
+</resources>
